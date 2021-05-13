@@ -26,10 +26,20 @@ li {
   text-align: left;
 }
 
-.weather-app {
+.overview {
+  margin-bottom: 20px;
+}
+.weather-app-wrapper {
   max-width: 600px;
   margin: 30px auto;
+}
+
+.weather-app {
   padding: 20px;
   border: 1px solid #dadde1;
   border-radius: 5px;
+}
+
+.weather-temperature img {
+  margin-right: 10px;
 }
